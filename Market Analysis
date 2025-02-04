@@ -1,0 +1,51 @@
+# NYC Airbnb Market Analysis
+
+## Executive Summary
+To provide strategic insight into the Manhattan vacation rental market, focusing on the identification of most-appealing neighborhoods, optimal property sizes, and potential revenue generation for investment opportunities.
+
+## Key Findings
+
+### Top Neighborhoods
+Based on analysis, the 10 most desirable neighborhoods to rent a vacation apartment in Manhattan were identified. The hottest neighborhoods, ranked by number of reviews in the last 12 months are:
+- Lower East Side
+- Hell's Kitchen
+- Harlem
+
+### Optimal Property Sizes
+One-bedroom apartments are the favorite for tenants in more than half of the top neighborhoods. Studios remain the preferred choice in Midtown.
+
+Distribution of property sizes:
+- 1-bedroom: 1,265 listings
+- 2-bedroom: 526 listings
+- Studios: 441 listings
+
+### Revenue Potential
+- Top earning listing (ID: 49946551): \$29,940 per 30-day period
+- Estimated annual revenue potential: \$359,280 (based on 30-day sample × 12)
+
+## Recommendations
+1. Invest in one-bedroom apartments within best-performing neighborhoods, prioritizing:
+   - Lower East Side
+   - Hell's Kitchen
+   - Harlem
+2. Focus on studio apartments within Midtown
+3. Target top 10 identified neighborhoods for investment
+4. Use top performers as benchmarks for projected returns
+
+## Next Steps
+- Conduct detailed analysis of top-earning listings success factors
+- Investigate seasonal trends for pricing optimization
+- Research local regulations and zoning laws in target neighborhoods
+
+## Project Structure
+- Assumptions & Changes
+- Data Dictionary
+- Listings Analysis
+- Revenue Analysis (30-day period)
+- Calendar Analysis
+- Room Type Analysis
+- General Rental Analysis
+
+## Data Sources
+- Listings dataset
+- Calendar dataset
